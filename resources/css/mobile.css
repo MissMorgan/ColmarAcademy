@@ -89,16 +89,16 @@
   line-height: 0.5rem;
 }
 
-.courses-container {
-  justify-content: space-around;
-  width: 100%;
-  margin: 0 auto;
-}
-
 .course {
   width: 100%;
   margin: 8px 16px;
   padding: 0;
+}
+
+.courses-container {
+  justify-content: space-around;
+  width: 100%;
+  margin: 0 auto;
 }
 
 .course-text-container h3, p {
@@ -122,6 +122,7 @@
 #Thesis {
   padding-bottom: 24px;
 }
+
 .thesis-text-container {
   display: none;
 }
